@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\vp.kirnos\\qaja\\libs\\byte-buddy-1.8.15.jar",
+        "c:\\Users\\vp.kirnos\\qaja\\libs\\commons-exec-1.3.jar",
+        "c:\\Users\\vp.kirnos\\qaja\\libs\\guava-25.0-jre.jar",
+        "c:\\Users\\vp.kirnos\\qaja\\libs\\okhttp-3.11.0.jar",
+        "c:\\Users\\vp.kirnos\\qaja\\libs\\okio-1.14.0.jar",
+        "c:\\Users\\vp.kirnos\\qa_java\\selenium_test0309\\qaja\\src\\Referenced Libraries\\client-combined-3.141.59.jar",
+        "c:\\Users\\vp.kirnos\\qa_java\\selenium_test0309\\qaja\\src\\Referenced Libraries\\client-combined-3.141.59-sources.jar",
+        "c:\\Users\\vp.kirnos\\qa_java\\selenium_test0309\\qaja\\src\\Referenced Libraries\\commons-io-2.11.0.jar",
+        "c:\\Users\\vp.kirnos\\qa_java\\selenium_test0309\\qaja\\src\\Referenced Libraries\\commons-io-2.11.0-javadoc.jar",
+        "c:\\Users\\vp.kirnos\\qa_java\\selenium_test0309\\qaja\\src\\Referenced Libraries\\commons-io-2.11.0-sources.jar",
+        "c:\\Users\\vp.kirnos\\qa_java\\selenium_test0309\\qaja\\src\\Referenced Libraries\\commons-io-2.11.0-tests.jar",
+        "c:\\Users\\vp.kirnos\\qa_java\\selenium_test0309\\qaja\\src\\Referenced Libraries\\commons-io-2.11.0-test-sources.jar"
+    ]
+}
